@@ -43,7 +43,7 @@
              V0.70, 2018/10/01 - Bug fixes
              V0.80, 2018/11/23 - Optimizing loop
              V0.90, 2018/12/10 - Modify Prerequisite 
-			 V1.00, 2020/06/25 - Bug fixes, adding MSB365 Logo
+	     V1.00, 2020/06/25 - Bug fixes, adding MSB365 Logo
 
 
 --- keep it simple, but significant ---
